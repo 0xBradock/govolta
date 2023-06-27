@@ -50,6 +50,6 @@ brews:
     homepage: https://github.com/Kmelow/govolta
     tap:
       owner: Kmelow
-      name: homebrew-govolta
+      name: govolta
     commit_author:
       name: Kmelow
